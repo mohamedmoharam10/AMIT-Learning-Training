@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AnimeList>
+  <Anime>
+    <Title>New Anime 1</Title>
+    <Genre>Fantasy</Genre>
+    <Episodes>24</Episodes>
+    <ReleaseYear>2023</ReleaseYear>
+    <Studio>Studio X</Studio>
+  </Anime>
+  <Anime>
+    <Title>New Anime 2</Title>
+    <Genre>Sci-Fi</Genre>
+    <Episodes>12</Episodes>
+    <ReleaseYear>2022</ReleaseYear>
+    <Studio>Studio Y</Studio>
+  </Anime>
+<Anime><Title>New Anime Title</Title><Genre>Adventure</Genre><Episodes>12</Episodes><ReleaseYear>2022</ReleaseYear><Studio>New Studio</Studio></Anime><Anime><Title>New Anime Title</Title><Genre>Adventure</Genre><Episodes>12</Episodes><ReleaseYear>2022</ReleaseYear><Studio>New Studio</Studio></Anime></AnimeList>

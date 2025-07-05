@@ -1,0 +1,72 @@
+<AnimeList>
+  <Anime>
+    <Title>Attack on Titan</Title>
+    <Genre>Action</Genre>
+    <Episodes>75</Episodes>
+    <ReleaseYear>2013</ReleaseYear>
+    <Studio>Wit Studio</Studio>
+  </Anime>
+  <Anime>
+    <Title>My Hero Academia</Title>
+    <Genre>Action</Genre>
+    <Episodes>113</Episodes>
+    <ReleaseYear>2016</ReleaseYear>
+    <Studio>Bones</Studio>
+  </Anime>
+  <Anime>
+    <Title>Demon Slayer</Title>
+    <Genre>Action</Genre>
+    <Episodes>26</Episodes>
+    <ReleaseYear>2019</ReleaseYear>
+    <Studio>ufotable</Studio>
+  </Anime>
+  <Anime>
+    <Title>One Piece</Title>
+    <Genre>Adventure</Genre>
+    <Episodes>1000+</Episodes>
+    <ReleaseYear>1999</ReleaseYear>
+    <Studio>Toei Animation</Studio>
+  </Anime>
+  <Anime>
+    <Title>Spirited Away</Title>
+    <Genre>Fantasy</Genre>
+    <Episodes>1</Episodes>
+    <ReleaseYear>2001</ReleaseYear>
+    <Studio>Studio Ghibli</Studio>
+  </Anime>
+  <Anime>
+    <Title>Your Lie in April</Title>
+    <Genre>Romance</Genre>
+    <Episodes>22</Episodes>
+    <ReleaseYear>2014</ReleaseYear>
+    <Studio>A-1 Pictures</Studio>
+  </Anime>
+  <Anime>
+    <Title>Death Note</Title>
+    <Genre>Thriller</Genre>
+    <Episodes>37</Episodes>
+    <ReleaseYear>2006</ReleaseYear>
+    <Studio>Madhouse</Studio>
+  </Anime>
+  <Anime>
+    <Title>Fullmetal Alchemist: Brotherhood</Title>
+    <Genre>Adventure</Genre>
+    <Episodes>64</Episodes>
+    <ReleaseYear>2009</ReleaseYear>
+    <Studio>Bones</Studio>
+  </Anime>
+  <Anime>
+    <Title>Neon Genesis Evangelion</Title>
+    <Genre>Mecha</Genre>
+    <Episodes>26</Episodes>
+    <ReleaseYear>1995</ReleaseYear>
+    <Studio>Gainax</Studio>
+  </Anime>
+  <Anime>
+    <Title>Cowboy Bebop</Title>
+    <Genre>Sci-Fi</Genre>
+    <Episodes>26</Episodes>
+    <ReleaseYear>1998</ReleaseYear>
+    <Studio>Sunrise</Studio>
+  </Anime>
+</AnimeList>

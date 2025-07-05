@@ -1,0 +1,5 @@
+Data Link: https://www.kaggle.com/datasets/swatikhedekar/exploratory-data-analysis-on-netflix-data
+Task: Create an EDA project and share the link of you kaggle notebook.
+Notes: There are some columns like 'title' you shouldn't apply any analysis for it, just display it.
+
+

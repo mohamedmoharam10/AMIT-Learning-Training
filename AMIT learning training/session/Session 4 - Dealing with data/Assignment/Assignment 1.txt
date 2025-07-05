@@ -1,0 +1,4 @@
+Data Link: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+Task: Create an EDA project and share the link of you kaggle notebook.
+Notes: Read the description of the data and understand the columns. If any column isn't clear, search for it..
+

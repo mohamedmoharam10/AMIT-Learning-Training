@@ -1,0 +1,72 @@
+[
+  {
+    "Title": "Attack on Titan",
+    "Genre": "Action",
+    "Episodes": 75,
+    "ReleaseYear": 2013,
+    "Studio": "Wit Studio"
+  },
+  {
+    "Title": "My Hero Academia",
+    "Genre": "Action",
+    "Episodes": 113,
+    "ReleaseYear": 2016,
+    "Studio": "Bones"
+  },
+  {
+    "Title": "Demon Slayer",
+    "Genre": "Action",
+    "Episodes": 26,
+    "ReleaseYear": 2019,
+    "Studio": "ufotable"
+  },
+  {
+    "Title": "One Piece",
+    "Genre": "Adventure",
+    "Episodes": "1000+",
+    "ReleaseYear": 1999,
+    "Studio": "Toei Animation"
+  },
+  {
+    "Title": "Spirited Away",
+    "Genre": "Fantasy",
+    "Episodes": 1,
+    "ReleaseYear": 2001,
+    "Studio": "Studio Ghibli"
+  },
+  {
+    "Title": "Your Lie in April",
+    "Genre": "Romance",
+    "Episodes": 22,
+    "ReleaseYear": 2014,
+    "Studio": "A-1 Pictures"
+  },
+  {
+    "Title": "Death Note",
+    "Genre": "Thriller",
+    "Episodes": 37,
+    "ReleaseYear": 2006,
+    "Studio": "Madhouse"
+  },
+  {
+    "Title": "Fullmetal Alchemist: Brotherhood",
+    "Genre": "Adventure",
+    "Episodes": 64,
+    "ReleaseYear": 2009,
+    "Studio": "Bones"
+  },
+  {
+    "Title": "Neon Genesis Evangelion",
+    "Genre": "Mecha",
+    "Episodes": 26,
+    "ReleaseYear": 1995,
+    "Studio": "Gainax"
+  },
+  {
+    "Title": "Cowboy Bebop",
+    "Genre": "Sci-Fi",
+    "Episodes": 26,
+    "ReleaseYear": 1998,
+    "Studio": "Sunrise"
+  }
+]

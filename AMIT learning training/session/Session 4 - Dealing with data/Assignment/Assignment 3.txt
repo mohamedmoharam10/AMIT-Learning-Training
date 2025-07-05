@@ -1,0 +1,10 @@
+Data Link: https://www.kaggle.com/datasets/abhishekrp1517/sales-data-for-economic-data-analysis
+Task: Create an EDA project and share the link of you kaggle notebook.
+Notes: The data contains two files [csv, xlsx], you can use any of them.
+       Read the description of the data and if any column isn't clear, search for it.
+       Search for "How to deal with datetime columns" to analyze it.
+       Drop unneeded columns.
+       Drop missing values if there are.
+       
+
+
